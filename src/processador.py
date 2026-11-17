@@ -4,7 +4,7 @@ import os
 
 def processar_dados_csv(caminho_csv):
     if not os.path.exists(caminho_csv):
-        raise FileNotFoundError(f"Arquivo não encontrado: {caminho_csv}")
+        raise FileNotFoundError(f"Arquivo não encontrado..: {caminho_csv}")
 
     modulos = []
     total_acessos = 0
