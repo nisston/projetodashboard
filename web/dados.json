@@ -1,0 +1,33 @@
+{
+  "resumo": {
+    "total_modulos": 4,
+    "total_acessos": 6100,
+    "media_aprovacao": 90.25
+  },
+  "detalhes": [
+    {
+      "modulo": "SEO On-Page",
+      "tempo_ms": 450,
+      "acessos": 1200,
+      "aprovacao": 92.5
+    },
+    {
+      "modulo": "Git e GitHub",
+      "tempo_ms": 320,
+      "acessos": 1850,
+      "aprovacao": 88.0
+    },
+    {
+      "modulo": "Metodologias Ageis",
+      "tempo_ms": 280,
+      "acessos": 950,
+      "aprovacao": 95.0
+    },
+    {
+      "modulo": "DevOps e CI/CD",
+      "tempo_ms": 510,
+      "acessos": 2100,
+      "aprovacao": 85.5
+    }
+  ]
+}
